@@ -1,5 +1,5 @@
-﻿double a = 5;
-double b = 7;
+﻿double a = 5; // 2, -9
+double b = 7; // 10, -3
 if (a > b)
 {
     System.Console.WriteLine(a);
